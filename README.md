@@ -7,6 +7,9 @@ API PROVIDING MEANINGFUL QUOTES, STOIC QUOTES, AND VALUABLE ADVICE.
 # Description
 This project was made using JavaScript and three APIs, one is a quotes API, one a stoic quotes API and one a advice API. 
 
+# Tech Used
+HTML, CSS, and JavaScript
+
 # What I learned
 I learned how to use three different APIs in a single JavaScript file. 
 
